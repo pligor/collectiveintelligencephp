@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
+# Allow crawling of all content by bots
+# User-agent: *
+# Disallow:
+
+# Allow crawling only for google :P
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Disallow: /

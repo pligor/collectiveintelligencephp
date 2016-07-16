@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Software Engineer: George Pligor
+  Site: http://facebook.com/pligor
+  Twitter: https://twitter.com/#!/GeorgePligor
+  Location: Athens, Greece
+
+/* THANKS */
+  Yii framework community: http://www.yiiframework.com/
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Backbone, Yii framework, MySQL
+  Software: Netbeans, Eclipse, PhpStorm, MySQL Workbench, Ubuntu
